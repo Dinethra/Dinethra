@@ -25,8 +25,8 @@
 - :man_office_worker: Currently, working as a Senior Software Quality Assurance Engineer
 - :house_with_garden: Located in Sri Lanka
 - :man_student: MSc. Project Management, Birmingham City University
-- :man_student: BSc. Special (Hons) Information technology, SLIIT
-- 🌱 I’m currently explorng automation testing frameworks and strategies
+- :man_student: BSc. Special (Hons) Information Technology, SLIIT
+- 🌱 I’m learning automation testing frameworks and strategies to improve my technical skills.
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/dinethra-rajapakse-534105134/))
 
 ---
